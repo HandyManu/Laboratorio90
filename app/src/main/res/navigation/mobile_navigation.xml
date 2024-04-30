@@ -27,7 +27,7 @@
         android:id="@+id/navigation_contactanos"
         android:name="Manuel.Ortega.emulador_20220416_manuel.ui.notifications.NotificationsFragment"
         android:label="Contactanos"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_contactanos" />
 
 
 </navigation>

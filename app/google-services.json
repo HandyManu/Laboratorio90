@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135572297975",
+    "project_id": "practica-90",
+    "storage_bucket": "practica-90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135572297975:android:629455c5e9528d02221bf2",
+        "android_client_info": {
+          "package_name": "Manuel.Ortega.emulador_20220416_manuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iYrIS2ibsFQDF9GzHzeAjQYhqzctt5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
