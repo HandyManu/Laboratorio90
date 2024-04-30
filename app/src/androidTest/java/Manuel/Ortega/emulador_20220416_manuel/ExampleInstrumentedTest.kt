@@ -1,4 +1,4 @@
-package com.example.emulador_20220416_manuel
+package Manuel.Ortega.emulador_20220416_manuel
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.emulador_20220416_manuel", appContext.packageName)
+        assertEquals("Manuel.Ortega.emulador_20220416_manuel", appContext.packageName)
     }
 }

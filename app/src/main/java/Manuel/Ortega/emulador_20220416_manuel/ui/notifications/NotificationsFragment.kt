@@ -1,4 +1,4 @@
-package com.example.emulador_20220416_manuel.ui.notifications
+package Manuel.Ortega.emulador_20220416_manuel.ui.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.emulador_20220416_manuel.databinding.FragmentNotificationsBinding
+import Manuel.Ortega.emulador_20220416_manuel.databinding.FragmentNotificationsBinding
 
 class NotificationsFragment : Fragment() {
 

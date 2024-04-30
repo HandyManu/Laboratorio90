@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.emulador_20220416_manuel"
+    namespace = "Manuel.Ortega.emulador_20220416_manuel"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.emulador_20220416_manuel"
+        applicationId = "Manuel.Ortega.emulador_20220416_manuel"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

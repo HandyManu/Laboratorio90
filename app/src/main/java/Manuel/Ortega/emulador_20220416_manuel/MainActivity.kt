@@ -1,4 +1,4 @@
-package com.example.emulador_20220416_manuel
+package Manuel.Ortega.emulador_20220416_manuel
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.emulador_20220416_manuel.databinding.ActivityMainBinding
+import Manuel.Ortega.emulador_20220416_manuel.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
