@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209571528864",
+    "project_id": "practica-nueva-971a6",
+    "storage_bucket": "practica-nueva-971a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209571528864:android:a61f5ee9d465ed629509c5",
+        "android_client_info": {
+          "package_name": "manuel.ortega.emulador_20220416_manuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsuXqspRgDrSpu7cH_4pejbs2aM_KWQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
